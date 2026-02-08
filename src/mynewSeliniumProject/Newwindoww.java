@@ -38,6 +38,14 @@ public class Newwindoww {
 		File file = name.getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(file, new File("logo.png"));
 		
+		System.out.println("I'm making the changes in the codeeeeee");
+		System.out.println("I'm making the changes in the codeeeeee8737383838");
+		System.out.println("I'm making the changes in the codeeeeee38373838");
+		System.out.println("I'm making the changes in the codeeeeeemmmmmmmmmmmmmmmmmm");
+		
+		
+		
+		
 		//height and width
 		System.out.println(name.getRect().getDimension().getHeight());
 		System.out.println(name.getRect().getDimension().getWidth());
